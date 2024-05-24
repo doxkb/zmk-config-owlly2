@@ -1,0 +1,13 @@
+file_format: "1"
+id: owlly
+name: Owlly 
+type: shield
+url:
+requires:
+  - pro_micro
+exposes:
+features:
+  - keys
+siblings:
+  - owlly_left
+  - owlly_right
