@@ -9,5 +9,5 @@ exposes:
 features:
   - keys
 siblings:
-  - owlly_left
-  - owlly_right
+  - owlly2_left
+  - owlly2_right

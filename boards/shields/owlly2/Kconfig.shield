@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 config SHIELD_OWLLY_LEFT
-	def_bool $(shields_list_contains,owlly_left)
+	def_bool $(shields_list_contains,owlly2_left)
 
 config SHIELD_OWLLY_RIGHT
-	def_bool $(shields_list_contains,owlly_right)
+	def_bool $(shields_list_contains,owlly2_right)
