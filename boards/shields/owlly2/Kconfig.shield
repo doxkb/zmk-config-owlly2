@@ -1,8 +1,8 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_OWLLY_LEFT
+config SHIELD_OWLLY2_LEFT
 	def_bool $(shields_list_contains,owlly2_left)
 
-config SHIELD_OWLLY_RIGHT
+config SHIELD_OWLLY2_RIGHT
 	def_bool $(shields_list_contains,owlly2_right)
