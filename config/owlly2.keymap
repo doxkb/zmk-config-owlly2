@@ -79,7 +79,7 @@ keymap {
 	lower_layer {
 		bindings = <
 			&kp N1		&kp N2 		&kp N3		&kp N4		&kp N5				&kp N6 		&kp N7		&kp N8		&kp N9		&kp N0
-			&trans		&trans		&trans		&trans		&kp PSCRN 			&kp LEFT	&kp DOWN	&kp UP		&kp RIGHT	&kp SQT
+			&trans		&kp RA(N2)	&trans		&trans		&kp PSCRN 			&kp LEFT	&kp DOWN	&kp UP		&kp RIGHT	&kp SQT
 			&trans		&kp C_PREV	&kp C_NEXT	&kp LEFT	&kp RIGHT			&kp MINUS	&kp PLUS	&kp LBKT	&kp RBKT	&hs RSHIFT BSLH
 									&kp LGUI	&trans		&trans				&trans		&trans		&trans
 		>;
