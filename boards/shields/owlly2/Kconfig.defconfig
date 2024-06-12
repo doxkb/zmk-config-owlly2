@@ -4,7 +4,7 @@
 if SHIELD_OWLLY2_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "Owlly2"
+	default "Owlly3"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
