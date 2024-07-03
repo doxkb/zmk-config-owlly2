@@ -34,7 +34,7 @@
         };
 		combo_explorer { 
             timeout-ms = <50>;
-            key-positions = <3 30>;
+            key-positions = <3 29>;
             bindings = <&kp LG(E)>;
         };
     };
